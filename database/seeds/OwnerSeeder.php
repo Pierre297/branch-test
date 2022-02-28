@@ -16,4 +16,4 @@ class OwnerSeeder extends Seeder
         factory(Owner::class, 10)->create();
     }
 }
-//ciao ragazzi
+// ciao a tutti quanti
